@@ -1,0 +1,23 @@
+# Private working notes (not for the public portfolio)
+PROGRESS.md
+interview-notes/
+
+# Raw browser-tool logs and snapshots from Kiro's Playwright MCP
+.playwright-mcp/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Node / Playwright (from Day 4)
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
